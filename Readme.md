@@ -45,7 +45,8 @@ Here multiple filters are applied on the page to obtain some specific mobiles as
     https : `git clone https://github.com/ankitojha07/PhoneRecommender-Python.git`
    
   
-    ssh : `git clone git@github.com:ankitojha07`
+    ssh : `git clone git@github.com:ankitojha07/PhoneRecommender-Python.git7`
+   
 
 
 
