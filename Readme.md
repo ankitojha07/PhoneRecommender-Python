@@ -42,7 +42,8 @@ Here multiple filters are applied on the page to obtain some specific mobiles as
 ## ⚡ Installation
 **1. Clone this repo by running either of the below commands.**
 
-    https : `git clone https://github.com/ankitojha07/`
+    https : `git clone https://github.com/ankitojha07/PhoneRecommender-Python.git`
+   
   
     ssh : `git clone git@github.com:ankitojha07`
 
